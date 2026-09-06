@@ -8,6 +8,8 @@
 
 > นี่คือ Static Demo บน GitHub Pages ไม่ใช่ระบบ Production และไม่มี Backend, Database หรือระบบยืนยันตัวตนจริง
 
+ระบบจริงที่เชื่อม Supabase: **https://ezcon.187.52.117.62.nip.io**
+
 ## พฤติกรรมของ Demo
 
 - สร้างบัญชีโรงงานจำลองในเบราว์เซอร์

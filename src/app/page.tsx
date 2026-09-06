@@ -216,6 +216,14 @@ export default function Page() {
             STATIC DEMO · ข้อมูลสังเคราะห์ใน browser localStorage
             <br />
             ยังไม่ใช่ระบบบัญชีภาษีหรือการรับรองคุณภาพทางวิศวกรรม
+            <br />
+            ระบบจริงที่เชื่อม Supabase:{" "}
+            <a
+              href="https://ezcon.187.52.117.62.nip.io"
+              rel="noopener noreferrer"
+            >
+              ezcon.187.52.117.62.nip.io
+            </a>
           </p>
         </div>
       </section>
